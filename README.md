@@ -27,10 +27,10 @@ Click the color palette and choose the color and generate your own color accordi
 
 ## LIVE DEMO 
 
-- [Click here for live-demo and generate your own favorite color]()
+- [Click here for live-demo and generate your own favorite color](https://amnaakhtar1213.github.io/color-picker/)
 
 -------------------------
 
-<!-- ## Cline the Repository
+ ## Cline the Repository
 ```bash
-git clone https://github.com/Amnaakhtar1213/color-picker.git -->
+git clone https://github.com/Amnaakhtar1213/color-picker.git
