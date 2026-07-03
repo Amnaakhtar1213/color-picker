@@ -31,6 +31,6 @@ Click the color palette and choose the color and generate your own color accordi
 
 -------------------------
 
-## Cline the Repository
+<!-- ## Cline the Repository
 ```bash
-git clone https://github.com/Amnaakhtar1213/color-picker.git
+git clone https://github.com/Amnaakhtar1213/color-picker.git -->
